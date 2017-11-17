@@ -7,6 +7,6 @@
     "cards-stack-microsoft-cards-empty-text-add":"Microsoft(Outlook, Office 365) 연락처 불러오기.",
     "cards-stack-microsoft-cards-empty-microsoft-button": "Microsoft 연결하기",
     "cards-stack-microsoft-cards-connection-expired-heading": "연결이 만료되었습니다",
-    "cards-stack-microsoft-cards-connection-expired-text": "아래의 버튼을 클릭하여 소셜 네트워크 계정에 다시 연결하십시오."
+    "cards-stack-microsoft-cards-connection-expired-text": "아래의 버튼을 클릭하여 Microsoft 계정에 다시 연결하십시오."
   }
 }
