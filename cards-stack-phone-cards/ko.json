@@ -1,14 +1,14 @@
 {
   "data": {
     "cards-stack-phone-cards-title": "기본 카드",
-    "cards-stack-phone-cards-subtitle": "Cards에 수입한 기본 연락처 카드",
+    "cards-stack-phone-cards-subtitle": "기존 휴대폰 연락처를 카드스로 불러옴",
     "cards-stack-phone-cards-edit-card": "편집",
     "cards-stack-phone-cards-delete-card": "삭제",
     "cards-stack-phone-cards-add-to-favourites": "즐겨찾기에 추가",
-    "cards-stack-phone-cards-add-to-group": "Add to group",
+    "cards-stack-phone-cards-add-to-group": "그룹에 추가",
     "cards-stack-phone-cards-more-button-label": "기타 기능",
-    "cards-stack-phone-cards-empty-heading": "About phone cards",
-    "cards-stack-phone-cards-empty-text-add": "Phone cards can be imported from your phone's local contacts or manually created. They don't auto-update.",
+    "cards-stack-phone-cards-empty-heading": "기본 카드란",
+    "cards-stack-phone-cards-empty-text-add": "기본 카드는 기존에 휴대폰에 저장된 연락처를 불러오거나, 직접 입력하여 만들 수 있습니다. 자동 업데이트는 제공하지 않습니다. ",
     "cards-stack-phone-cards-empty-button-add": "기본 카드 만들기",
     "cards-stack-phone-cards-empty-button-import": "휴대폰 연락처 동기화",
     "cards-stack-phone-cards-create-card": "기본 카드 만들기",
@@ -16,6 +16,6 @@
     "cards-stack-phone-cards-my-information": "정보",
     "cards-stack-phone-cards-my-notes": "메모",
     "cards-stack-phone-cards-create": "새로운 카드",
-    "cards-stack-phone-cards-update": "갱신 카드"
+    "cards-stack-phone-cards-update": "카드 갱신"
   }
 }
