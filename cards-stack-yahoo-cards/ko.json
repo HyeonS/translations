@@ -1,12 +1,12 @@
 {
   "data": {
     "cards-stack-yahoo-cards-title": "Yahoo",
-    "cards-stack-yahoo-cards-subtitle": "Get contact information from your Yahoo address book",
-    "cards-stack-yahoo-cards-more": "More options",
-    "cards-stack-yahoo-cards-empty-heading": "Import Yahoo contacts",
-    "cards-stack-yahoo-cards-empty-text-add": "You will see contact information from your Yahoo address book.",
+    "cards-stack-yahoo-cards-subtitle": "Yahoo 주소록 동기화 및 관리",
+    "cards-stack-yahoo-cards-more": "추가 옵션",
+    "cards-stack-yahoo-cards-empty-heading": "Yahoo 연락처 불러오기",
+    "cards-stack-yahoo-cards-empty-text-add": "이제 Yahoo 연락처에서 불러온 정보를 볼 수 있습니다.",
     "cards-stack-yahoo-cards-empty-yahoo-button": "Yahoo",
-    "cards-stack-yahoo-cards-connection-expired-heading": "Connection expired",
-    "cards-stack-yahoo-cards-connection-expired-text": "Reconnect Yahoo account by clicking the button below."
+    "cards-stack-yahoo-cards-connection-expired-heading": "연결이 만료되었습니다",
+    "cards-stack-yahoo-cards-connection-expired-text": "아래의 버튼을 클릭하여 Yahoo 계정에 다시 연결하십시오."
   }
 }
