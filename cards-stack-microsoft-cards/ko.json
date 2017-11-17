@@ -1,12 +1,12 @@
 {
   "data": {
     "cards-stack-microsoft-cards-title": "Microsoft",
-    "cards-stack-microsoft-cards-subtitle": "Contacts imported from Microsoft Account",
-    "cards-stack-microsoft-cards-more": "More options",
-    "cards-stack-microsoft-cards-empty-heading":"Import Microsoft contacts",
-    "cards-stack-microsoft-cards-empty-text-add":"Import your Microsoft (Outlook, Office 365) contacts.",
-    "cards-stack-microsoft-cards-empty-microsoft-button": "Sign in to Microsoft",
-    "cards-stack-microsoft-cards-connection-expired-heading": "Connection expired",
-    "cards-stack-microsoft-cards-connection-expired-text": "Reconnect Microsoft account by clicking the button below."
+    "cards-stack-microsoft-cards-subtitle": "Microsoft 주소록 동기화 및 관리",
+    "cards-stack-microsoft-cards-more": "추가 옵션",
+    "cards-stack-microsoft-cards-empty-heading":"Microsoft 연락처 연결",
+    "cards-stack-microsoft-cards-empty-text-add":"Microsoft(Outlook, Office 365) 연락처 불러오기.",
+    "cards-stack-microsoft-cards-empty-microsoft-button": "Microsoft 연결하기",
+    "cards-stack-microsoft-cards-connection-expired-heading": "연결이 만료되었습니다",
+    "cards-stack-microsoft-cards-connection-expired-text": "아래의 버튼을 클릭하여 소셜 네트워크 계정에 다시 연결하십시오."
   }
 }
