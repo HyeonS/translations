@@ -2,7 +2,7 @@
   "data": {
     "cards-page-storyline-title": "이야기 및 진행",
     "cards-page-storyline-story": "The Kingdom of Cards",
-    "cards-page-storyline-unavailable": "Couldn't load storyline.",
-    "cards-page-storyline-unavailable-action": "Try again"
+    "cards-page-storyline-unavailable": "이야기를 불러올 수 없습니다.",
+    "cards-page-storyline-unavailable-action": "다시 시도해보세요"
   }
 }
