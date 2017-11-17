@@ -1,7 +1,7 @@
 {
   "data": {
     "cards-stack-my-cards-title": "내 카드",
-    "cards-stack-my-cards-subtitle": "개인 라이브 카드 다른 사람한테 공유함",
+    "cards-stack-my-cards-subtitle": "나의 라이브 카드를 다른 사람과 공유함",
     "cards-stack-my-cards-edit-card": "편집",
     "cards-stack-my-cards-delete-card": "삭제",
     "cards-stack-my-cards-share": "공유",
@@ -10,10 +10,10 @@
     "cards-stack-my-cards-share-card": "카드 공유",
     "cards-stack-my-cards-share-temp-code": "임시 코드",
     "cards-stack-my-cards-done": "완료",
-    "cards-stack-my-cards-received-cards": "받는 카드",
-    "cards-stack-my-cards-exchange-successful": "라이브카드를 교환하였습니다.",
-    "cards-stack-my-cards-create-new": "Create a new live card",
-    "cards-stack-my-cards-share-or-edit": "Share or edit your card",
-    "cards-stack-my-cards-update": "갱신 내 라이브 카드"
+    "cards-stack-my-cards-received-cards": "받은 카드",
+    "cards-stack-my-cards-exchange-successful": "라이브 카드를 교환하였습니다.",
+    "cards-stack-my-cards-create-new": "새로운 라이브 카드를 만드세요",
+    "cards-stack-my-cards-share-or-edit": "카드를 받거나 교환하세요",
+    "cards-stack-my-cards-update": "내 라이브 카드 갱신"
   }
 }
