@@ -11,13 +11,13 @@
     "cards-stack-custom-cards-add-to-group": "Add to group",
     "cards-stack-custom-cards-add-to-stack": "Add to stack",
     "cards-stack-custom-cards-remove-from-stack": "스텍에서 삭제",
-    "cards-stack-custom-cards-empty-heading": "Let's add some cards",
+    "cards-stack-custom-cards-empty-heading": "카드를 추가해 보세요",
     "cards-stack-custom-cards-empty-text-add": "You can add live or phone cards to this stack.",
-    "cards-stack-custom-cards-empty-button": "Add cards",
-    "cards-stack-custom-rename-settings": "Rename Group",
+    "cards-stack-custom-cards-empty-button": "카드 추가",
+    "cards-stack-custom-rename-settings": "그룹 이름 변경",
     "cards-stack-custom-remove": "삭제",
-    "cards-stack-custom-stack-title-input": "Title",
-    "cards-stack-custom-details-page-title": "Rename group",
-    "cards-stack-custom-details-page-save": "Save"
+    "cards-stack-custom-stack-title-input": "제목",
+    "cards-stack-custom-details-page-title": "그룹 이름 변경",
+    "cards-stack-custom-details-page-save": "저장"
   }
 }
