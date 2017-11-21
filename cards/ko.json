@@ -1,10 +1,10 @@
 {
   "data": {
     "cards-title": "Cards",
-    "cards-group-quick-actions": "Quick Actions",
-    "cards-group-import": "Import",
-    "cards-group-extras": "Extras",
-    "cards-group-create": "New Group",
-    "cards-group-receive-cards": "Receive Cards"
+    "cards-group-quick-actions": "퀵 액션",
+    "cards-group-import": "불러오기",
+    "cards-group-extras": "추가 기능",
+    "cards-group-create": "새로운 그룹",
+    "cards-group-receive-cards": "카드 받기"
   }
 }
