@@ -5,6 +5,10 @@
     "cards-group-import": "불러오기",
     "cards-group-extras": "추가 기능",
     "cards-group-create": "새로운 그룹",
-    "cards-group-receive-cards": "카드 받기"
+    "cards-group-receive-cards": "카드 받기",
+    "cards-notification-autoconnect-one": "{name}도 카드스를 사용중입니다. 지금 바로 확인하기!",
+    "cards-notification-autoconnect-many": "몇명의 지인들이 카드스를 이용중입니다. 지금 바로 확인하기!",
+    "cards-notification-received-cards-updates-one": "{name}님의 변경된 카드를 보셨나요?",
+    "cards-notification-received-cards-updates-mane": "{number}명의 새로운 라이브 카드를 보셨나요?"
   }
 }
